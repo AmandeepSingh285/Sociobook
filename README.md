@@ -6,7 +6,10 @@ Sociobook is a dynamic, user-friendly full-stack web platform that fosters knowl
 
 ## Features
 
-- User Registration and Authentication: The application provides a secure signup and signin process for users to create and access their accounts.
+- User Registration and Authentication: The application provides a secure signup and signin process for users to create and access their accounts. This process is further enhanced by the use of JSON Web Token (JWT) authentication, ensuring a robust and secure environment for user data.
+
+![alt text](https://github.com/AmandeepSingh285/Sociobook/blob/Sociobook-final/login.png?raw=true)
+
 - Personalized Home Page: Each user is presented with a customized home page that aligns with their specific interests.
 - Question Submission: Users have the ability to post questions, fostering an environment of shared learning and curiosity.
 - Answer Submission: Users can contribute their knowledge by providing answers to questions posted by others.
