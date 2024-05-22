@@ -36,4 +36,6 @@ Editing Answers:
 
 ## Entity Relationship Diagram
 
+Link: https://drive.google.com/file/d/1WWOaJ6OmTfafGB_Ef2-rqLb2jTSqX9Ur/view?usp=sharing
+
 ![alt text](https://github.com/AmandeepSingh285/Sociobook/blob/Sociobook-final/Database_diagram.png?raw=true)
