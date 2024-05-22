@@ -34,6 +34,6 @@ Editing Answers:
 - Topic Creation: Users have the freedom to create new topics, encouraging a wide range of discussions and knowledge sharing.
 - Search Functionality: A search feature is available for users to easily find questions of interest.
 
-## Data Model Diagram
+## Entity Relationship Diagram
 
 ![alt text](https://github.com/AmandeepSingh285/Sociobook/blob/Sociobook-final/Database_diagram.png?raw=true)
